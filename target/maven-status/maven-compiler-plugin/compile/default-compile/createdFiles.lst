@@ -1,0 +1,7 @@
+hdfc\dao\Dao.class
+hdfc\entity\Entity.class
+hdfc\entity\Job.class
+hdfc\dao\JobDao.class
+hdfc\business\JobBusiness.class
+hdfc\JAXRSConfiguration.class
+hdfc\resource\JobResource.class
